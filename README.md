@@ -1,2 +1,2 @@
-# WSC69
+Git init # WSC69
 wallstreetcafe69
